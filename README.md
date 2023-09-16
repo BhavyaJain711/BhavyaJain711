@@ -1,5 +1,4 @@
 # Bhavya Jain
-- Phone: +91-9737105050
 - Email: bhavyajain711@gmail.com
 - GitHub: [GitHub Profile](https://github.com/BhavyaJain711)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bhavya-jain-3b7545151/)
